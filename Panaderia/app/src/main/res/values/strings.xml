@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Panaderia</string>
+    <string name="title_activity_ajustes">Ajustes</string>
+
+    <string-array name="colores">
+        <item>Negro</item>
+        <item>Azul</item>
+        <item>Verde</item>
+    </string-array>
+
+    <string-array name="codigoColor">
+        <item>NEG</item>
+        <item>AZU</item>
+        <item>VER</item>
+    </string-array>
+    <string name="title_activity_dibujo">DibujoActivity</string>
+
+    <string name="pruebaId">ID: 2</string>
+    <string name="pruebaNombreBebida">Barra</string>
+    <string name="pruebaTamano">Tamaño: Grande</string>
+    <string name="pruebaAperativo">Complemento: Integral</string>
+    <string name="pruebaUnidades">Unidades: 2</string>
+    <string name="pruebaPrecio">Precio: 4.2€</string>
+    <string name="pruebaDescripcionImagen">Imagen pan</string>
+    <string name="pruebaDescripcionBoton">Icono de borrar</string>
+
+    <string name="descripcionImagen">Imagen pan</string>
+    <string name="pruebaPrecio2">1.30€</string>
+
+    <string name="tituloMain">Panederia Paco</string>
+
+    <string name="tamano1">Normal</string>
+    <string name="tamano2">Grande</string>
+
+    <string name="textoCheck1">Integral</string>
+    <string name="textoCheck2">Sin gluten</string>
+    <string name="textoCheck3">Tierno</string>
+
+    <string name="textoHintUnidades">unidades</string>
+    <string name="textoBotonPedir">Pedir</string>
+
+    <string name="resCadBebida">Pan: </string>
+    <string name="resCadTamano">Tamaño: </string>
+    <string name="resCadAperativo">Complemento: </string>
+    <string name="resCadUnidades">Unidades: </string>
+    <string name="resCadPrecio">Precio: </string>
+    <string name="simboloEuro"> €</string>
+
+
+</resources>

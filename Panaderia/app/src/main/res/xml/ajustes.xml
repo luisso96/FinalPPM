@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="Tema">
+
+        <CheckBoxPreference
+            android:key="opcTema"
+            android:title="Tema oscuro"
+            android:summary="Establecer tema oscuro por defecto" />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="Música">
+
+        <CheckBoxPreference
+            android:key="opcMusica"
+            android:title="Música fondo"
+            android:summary="Establecer música de fondo por defecto" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

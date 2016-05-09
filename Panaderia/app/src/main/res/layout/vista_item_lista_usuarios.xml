@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+
+    <TextView
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:text="1"
+        android:id="@+id/tvId" />
+
+    <TextView
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:text="Luis"
+        android:id="@+id/tvUsuario" />
+
+    <TextView
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:text="123456"
+        android:id="@+id/tvContrasenya" />
+
+    <ImageButton
+        android:layout_marginLeft="15dp"
+        android:layout_marginStart="15dp"
+        android:id="@+id/borrarUsuario"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:background="@drawable/botonborrar"
+        android:contentDescription="@string/pruebaDescripcionBoton" />
+
+</LinearLayout>

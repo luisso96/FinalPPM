@@ -1,0 +1,45 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/btFigurasAleatorias"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:background="@color/colorAzul"
+        android:textColor="#ffffff"
+        android:text="Dibujar Figuras Aleatorias"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/btFigurasPulsar"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:background="@color/colorAzul"
+        android:textColor="#ffffff"
+        android:text="Dibujar figuras pulsando"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/btSpinnerFiguras"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:background="@color/colorAzul"
+        android:textColor="#ffffff"
+        android:text="Spinner calculo areas"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/btTransicion"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:background="@color/colorAzul"
+        android:textColor="#ffffff"
+        android:text="Transicion y Animacion"
+        android:layout_marginBottom="10dp"/>
+
+</LinearLayout>
